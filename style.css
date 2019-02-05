@@ -1,0 +1,116 @@
+.fullbody{
+display: flex;
+  flex-flow: row wrap;
+justify-content:space-around;
+background-color: #F9F9F9;
+}
+.main{
+display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  width: 1903px;
+  height: 77px;
+}
+
+.header {
+
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  width: 1010px;
+
+}
+.imagetop{
+display: flex;
+flex-flow:row wrap;
+justify content: flex-start;
+width: 377.5px;
+      height:36 px;
+	  }
+.image{
+  width: 24px;
+      height: 24px;
+}
+.emptysp1{
+width: 25px;
+      height: 29px;
+}
+.top {
+
+  width: 103px;
+      height: 29px;
+
+}
+
+
+.searchspce{
+  width: 199px;
+      height: 28px;
+	  }
+
+	  .buttons{
+	  width: 377.5px;
+      height: 30px;
+	  display: flex;
+flex-flow:row wrap;
+justify content: flex-end;
+	  }
+.buttonone  {
+width: 60px;
+      height: 30px;
+    cursor: pointer;
+    padding: 5px 9px;
+    text-align: center;
+}
+.buttontwo{
+  width: 70px;
+      height: 30px;
+	  cursor: pointer;
+    padding: 5px 9px;
+    text-align: center;
+
+
+}
+.other{
+  display: flex;
+  flex-flow:row wrap;
+  justify content: center;
+}
+.userinfo{
+  display: flex;
+  flex-flow:row wrap;
+  justify content: center;
+  width: 935px;
+}
+.avatar{
+  width: 291.67px;
+  height: 150px;
+}
+.userinfodesk{
+  display: flex;
+  flex-flow:row wrap;
+  justify content: flex-start;
+  width: 613.33px;
+  height:150px;
+}
+.name{
+  width: 142.92px;
+  height:32px;
+
+  font-size: 120%;
+}
+.buttonthree{
+  width: 180.48px;
+  height:30px;
+  display: flex;
+  flex-flow:row wrap;
+  justify content: flex-end;
+}
+.round{
+  border-radius: 100px;
+    border: 3px solid #FF6347;
+}
+
+ul.hr li {
+    display: inline;
+  }
